@@ -1,0 +1,9 @@
+#tempo{
+   color: blue;
+   display: flex;
+   justify-content: left; 
+}
+#vidas {
+    color: red;
+    display: flex;
+}
